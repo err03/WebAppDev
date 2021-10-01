@@ -1,0 +1,102 @@
+
+[
+    {
+        "id":1,
+        "name":"League of Legends",
+        "releaseDate":"10/27/2009",
+        "developer(s)":"Riot Games",
+        "Genre":"Multiplayer online battle arena (MOBA)",
+        "description":"League of Legends is a multiplayer online battle arena game. This game was inspired by Warcraft III: The Frozen Throne mod Defense.",
+        "picture":"lol.png"
+    },
+
+    {
+        "id":2,
+        "name":"PlayerUnknown's Battlegrounds (PUBG)",
+        "releaseDate":"7/30/2016",
+        "developer(s)":"PUBG Corporation, Krafton, Tencent Games, Xbox Game Studios",
+        "Genre":"Multiplayer online battle royale",
+        "description":"PUBG is an online multiplayer battle royale game, players will been a surviver during in an arena, then kills each other until last one win.",
+        "picture":"pubg.png"
+        },
+
+    {
+        "id":3,
+        "name":"Fortnite",
+        "releaseDate":"7/21/2017",
+        "developer(s)":"Epic Games, People Can Fly",
+        "Genre":"Multiplayer online battle royale",
+        "description":"Fortnite is an online video game, a free-to-play battle royale game where up to 100 players are given complete freedom to create worlds and battle arenas.",
+        "picture":"fortnite.png"
+    },
+
+    {
+        "id":4,
+        "name":"CrossFire",
+        "releaseDate":"5/3/2007",
+        "developer(s)":"Smilegate",
+        "Genre":"Tactical first-person shooter",
+        "description":"CrossFire is an online tactical first-person shooter (FPS), the most played game in the world by player count of all time, and world's top-grossing online game in 2014.",
+        "picture":"crossfire.png"
+    },
+
+    {
+        "id":5,
+        "name":"Dungeon Fighter Online (DFO)",
+        "releaseDate":"August 2005",
+        "developer(s)":"Neople",
+        "Genre":"Beat 'em up, Side-scrolling",
+        "description":"DFO is a multiplayer PC beat 'em up video game. DFO is one of the highest-grossing and most played video games of all time, reaching a total of 600 million players world wide.",
+        "picture":"dfo.png"
+    },
+
+    {
+        "id":6,
+        "name":"Counter-Strike:Global Offensive (CS:GO)",
+        "releaseDate":"8/21/2012",
+        "developer(s)":"Valve Corporation, Hidden Path Entertainment",
+        "Genre":"Tactical first-person shooter",
+        "description":"CS:GO is a multiplayer first-person shooter video game, the gameplay is similar to the CS, but using Source Engine enhanced version to improve the picture authenticity",
+        "picture":"csgo.png"
+    },
+
+    {
+        "id":7,
+        "name":"Overwatch",
+        "releaseDate":"10/27/2015",
+        "developer(s)":"Blizzard Entertainment, Iron Galaxy",
+        "Genre":"Tactical first-person shooter",
+        "description":"Overwatch is a team-based multiplayer first-person shooter, players able to choice about over 30 characters, and each characters havd their unique style of play.",
+        "picture":"overwatch.png"
+    },
+
+    {
+        "id":8,
+        "name":"World of Warcraft (WOW)",
+        "releaseDate":"11/23/2004",
+        "developer(s)":"Blizzard Entertainment",
+        "Genre":"role-playing adventure game",
+        "description":"WOW is a massively multiplayer online role-playing game, it was the world's most popular MMORPG by player count nearly 10 million in 2009.",
+        "picture":"wow.png"
+    },
+
+    {
+        "id":9,
+        "name":"Warframe",
+        "releaseDate":"3/25/2013",
+        "developer(s)":"Digital Extremes, Panic Button Games",
+        "Genre":"Action role-playing game, Cooperative gameplay",
+        "description":"Warframe is a free-to-play action role playing PVE third-person shooter multiplayer online game.",
+        "picture":"warframe.png"
+    },
+
+    {
+        "id":10,
+        "name":"GhostX Ultimate",
+        "releaseDate":"OFFLINE",
+        "developer(s)":"JC Enterainment",
+        "Genre":"MMORPG",
+        "description":"GhostX Ultimate is a free to play 3D sci-fi MMORPG, players will caring a weapons name Nanobot to fight against the devil. This is unique theme and unique gameplay with fast paced combat.",
+        "picture":"ghostx.png"
+    }
+]
